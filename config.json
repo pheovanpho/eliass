@@ -1,0 +1,129 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": false,
+    "UPTIME": 0,
+    "autoClean": true,
+    "adminOnly": false,
+    "adminPaseOnly": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Elias",
+    "PREFIX": "/",
+    "NDH": [
+        "100009355185480",
+        ""
+    ],
+    "ADMINBOT": [
+        "100009355185480",
+        "100052380039985",
+        "100056239749383",
+        "100058859851518",
+        "100048657641220"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": false,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.15",
+    "audio": {
+        "YOUTUBE_API": "AIzaSyA81xmaIo6uozgapDe7_yDjFfnOwkfx_XA",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 5000,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "duaxe": {
+        "key": "cuongngu"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "igvideo": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "mirai": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "nhanluot": {
+        "cooldownTime": 21600000,
+        "rewardCoin": 10000
+    },
+    "nhantien": {
+        "cooldownTime": 300000
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "radio": {
+        "YOUTUBE_API": "AIzaSyA81xmaIo6uozgapDe7_yDjFfnOwkfx_XA"
+    },
+    "twmp3": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "twvideo": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "videotiktok": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "weather": {
+        "OPEN_WEATHER": "196ac91264f90df6590b46309556229f"
+    },
+    "work": {
+        "cooldownTime": 600000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "menu": {
+        "autoUnsend": "",
+        "delayUnsend": 10
+    },
+    "sim": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyDyVFZYMSk35rDbvShBcCqEUvedoyEBA6Y"
+    }
+}

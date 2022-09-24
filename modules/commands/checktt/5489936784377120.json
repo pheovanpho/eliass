@@ -1,0 +1,107 @@
+{
+    "total": [
+        {
+            "id": "100019056925815",
+            "count": 2
+        },
+        {
+            "id": "100029651002721",
+            "count": 2
+        },
+        {
+            "id": "100068384846481",
+            "count": 2
+        },
+        {
+            "id": "100073032883365",
+            "count": 0
+        },
+        {
+            "id": "100075582905004",
+            "count": 40
+        },
+        {
+            "id": "100079130259228",
+            "count": 1
+        },
+        {
+            "id": "100084547726434",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100019056925815",
+            "count": 0,
+            "name": "Bảo Khang"
+        },
+        {
+            "id": "100029651002721",
+            "count": 0,
+            "name": "Phan Mai Anh Tuấn"
+        },
+        {
+            "id": "100068384846481",
+            "count": 0,
+            "name": "Thu Hoài"
+        },
+        {
+            "id": "100073032883365",
+            "count": 0,
+            "name": "Mạnh Dũng"
+        },
+        {
+            "id": "100075582905004",
+            "count": 24,
+            "name": "Cậu Ba"
+        },
+        {
+            "id": "100079130259228",
+            "count": 0,
+            "name": "Minh Lâm"
+        },
+        {
+            "id": "100084547726434",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100019056925815",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100029651002721",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100068384846481",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073032883365",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075582905004",
+            "count": 0,
+            "name": "Cậu Ba"
+        },
+        {
+            "id": "100079130259228",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084547726434",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 2
+}

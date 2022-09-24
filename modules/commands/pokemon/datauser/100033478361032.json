@@ -1,0 +1,26 @@
+{
+  "name": "Nguyễn Hải Đăng ꪜ",
+  "ID": "100033478361032",
+  "pet": [
+    {
+      "name": "Talonflame",
+      "type": "Fire",
+      "HP": "117.0",
+      "Attack": "121.5",
+      "Defense": "106.5",
+      "Speed": "189.0",
+      "skill": [
+        "Flame Body",
+        "Gale Wings"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/663.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

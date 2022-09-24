@@ -1,0 +1,135 @@
+{
+    "total": [
+        {
+            "id": "100055245006536",
+            "count": 0
+        },
+        {
+            "id": "100055907434627",
+            "count": 1
+        },
+        {
+            "id": "100060132242756",
+            "count": 2
+        },
+        {
+            "id": "100064991318218",
+            "count": 14
+        },
+        {
+            "id": "100072166541622",
+            "count": 0
+        },
+        {
+            "id": "100072617806296",
+            "count": 0
+        },
+        {
+            "id": "100073273804628",
+            "count": 0
+        },
+        {
+            "id": "100075582905004",
+            "count": 5
+        },
+        {
+            "id": "100080975178277",
+            "count": 9
+        }
+    ],
+    "week": [
+        {
+            "id": "100055245006536",
+            "count": 0,
+            "name": "Tôi　Bây　Giờ　Đặt　Tên　Là　Ken Hết　Hè　Này　Tôi　Sẽ　 Đặt　Lại　Cái　Tên　Của　Tôi"
+        },
+        {
+            "id": "100055907434627",
+            "count": 0,
+            "name": "Thaoanh Nguyễn"
+        },
+        {
+            "id": "100060132242756",
+            "count": 0,
+            "name": "Trần Võ Khánh Linh"
+        },
+        {
+            "id": "100064991318218",
+            "count": 0,
+            "name": "Khánhh Ly"
+        },
+        {
+            "id": "100072166541622",
+            "count": 0,
+            "name": "Khánhh Linhh"
+        },
+        {
+            "id": "100072617806296",
+            "count": 0,
+            "name": "Minh Trangg"
+        },
+        {
+            "id": "100073273804628",
+            "count": 0,
+            "name": "Ngô Thị Bích Tuyền"
+        },
+        {
+            "id": "100075582905004",
+            "count": 0,
+            "name": "Cậu Ba"
+        },
+        {
+            "id": "100080975178277",
+            "count": 0,
+            "name": "Dy An"
+        }
+    ],
+    "day": [
+        {
+            "id": "100055245006536",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100055907434627",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100060132242756",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100064991318218",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100072166541622",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100072617806296",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073273804628",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075582905004",
+            "count": 0,
+            "name": "Cậu Ba"
+        },
+        {
+            "id": "100080975178277",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 2
+}

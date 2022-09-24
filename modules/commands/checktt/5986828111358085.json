@@ -1,0 +1,345 @@
+{
+    "total": [
+        {
+            "id": "100015446044835",
+            "count": 0
+        },
+        {
+            "id": "100016744262387",
+            "count": 1
+        },
+        {
+            "id": "100028715867015",
+            "count": 56
+        },
+        {
+            "id": "100034281095281",
+            "count": 3
+        },
+        {
+            "id": "100039648072467",
+            "count": 159
+        },
+        {
+            "id": "100039849680898",
+            "count": 45
+        },
+        {
+            "id": "100039860684035",
+            "count": 41
+        },
+        {
+            "id": "100041270491480",
+            "count": 0
+        },
+        {
+            "id": "100043423060333",
+            "count": 113
+        },
+        {
+            "id": "100043895014271",
+            "count": 0
+        },
+        {
+            "id": "100045188839421",
+            "count": 21
+        },
+        {
+            "id": "100048069982735",
+            "count": 63
+        },
+        {
+            "id": "100051156743196",
+            "count": 73
+        },
+        {
+            "id": "100053101399446",
+            "count": 35
+        },
+        {
+            "id": "100067021028210",
+            "count": 0
+        },
+        {
+            "id": "100071258775316",
+            "count": 0
+        },
+        {
+            "id": "100071357419783",
+            "count": 10
+        },
+        {
+            "id": "100072073076420",
+            "count": 0
+        },
+        {
+            "id": "100075572076637",
+            "count": 22
+        },
+        {
+            "id": "100075582905004",
+            "count": 55
+        },
+        {
+            "id": "100080295554665",
+            "count": 0
+        },
+        {
+            "id": "100080494173754",
+            "count": 2
+        },
+        {
+            "id": "100081875695842",
+            "count": 2
+        },
+        {
+            "id": "100083994445352",
+            "count": 97
+        }
+    ],
+    "week": [
+        {
+            "id": "100015446044835",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100016744262387",
+            "count": 0,
+            "name": "Hạnh Suri"
+        },
+        {
+            "id": "100028715867015",
+            "count": 9,
+            "name": "Trâm Thợ May"
+        },
+        {
+            "id": "100034281095281",
+            "count": 3,
+            "name": "Trần Thị Kim Như"
+        },
+        {
+            "id": "100039648072467",
+            "count": 43,
+            "name": "Nguyễn Quỳnh Chi"
+        },
+        {
+            "id": "100039849680898",
+            "count": 22,
+            "name": "Hồng Nhung"
+        },
+        {
+            "id": "100039860684035",
+            "count": 6,
+            "name": "Uyn Uyn"
+        },
+        {
+            "id": "100041270491480",
+            "count": 0,
+            "name": "Nguyễn Thanh Ngọc"
+        },
+        {
+            "id": "100043423060333",
+            "count": 50,
+            "name": "Phuonwg Ankz"
+        },
+        {
+            "id": "100043895014271",
+            "count": 0,
+            "name": "Pham Vu Linhchi"
+        },
+        {
+            "id": "100045188839421",
+            "count": 5,
+            "name": "Tuet Vo"
+        },
+        {
+            "id": "100048069982735",
+            "count": 15,
+            "name": "Bảo Hân"
+        },
+        {
+            "id": "100051156743196",
+            "count": 10,
+            "name": "Hoàng Thanh Thảo"
+        },
+        {
+            "id": "100053101399446",
+            "count": 3,
+            "name": "Phan Hà Anh"
+        },
+        {
+            "id": "100067021028210",
+            "count": 0,
+            "name": "Nguyễn Hằng"
+        },
+        {
+            "id": "100071258775316",
+            "count": 0,
+            "name": "Trâm Ans"
+        },
+        {
+            "id": "100071357419783",
+            "count": 1,
+            "name": "Trịnh Huyền"
+        },
+        {
+            "id": "100072073076420",
+            "count": 0,
+            "name": "Thùy Dương"
+        },
+        {
+            "id": "100075572076637",
+            "count": 7,
+            "name": "Nguyễn Thị Minh Nguyệt"
+        },
+        {
+            "id": "100075582905004",
+            "count": 31,
+            "name": "Cậu Ba"
+        },
+        {
+            "id": "100080295554665",
+            "count": 0,
+            "name": "Mon Nek"
+        },
+        {
+            "id": "100080494173754",
+            "count": 0,
+            "name": "Hạ Huyền"
+        },
+        {
+            "id": "100081875695842",
+            "count": 2,
+            "name": "Sie Nna"
+        },
+        {
+            "id": "100083994445352",
+            "count": 15,
+            "name": "Xanh Nho"
+        }
+    ],
+    "day": [
+        {
+            "id": "100015446044835",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100016744262387",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100028715867015",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100034281095281",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100039648072467",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100039849680898",
+            "count": 6,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100039860684035",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100041270491480",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100043423060333",
+            "count": 3,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100043895014271",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100045188839421",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100048069982735",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100051156743196",
+            "count": 3,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100053101399446",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100067021028210",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100071258775316",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100071357419783",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100072073076420",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075572076637",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075582905004",
+            "count": 0,
+            "name": "Cậu Ba"
+        },
+        {
+            "id": "100080295554665",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100080494173754",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100081875695842",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083994445352",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 2
+}

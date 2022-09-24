@@ -1,0 +1,25 @@
+{
+  "name": "Linhh Linhh",
+  "ID": "100079676154288",
+  "pet": [
+    {
+      "name": "Mew",
+      "type": "Psychic",
+      "HP": "150.0",
+      "Attack": "150.0",
+      "Defense": "150.0",
+      "Speed": "150.0",
+      "skill": [
+        "Synchronize"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/151.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

@@ -1,0 +1,261 @@
+{
+    "total": [
+        {
+            "id": "100035269800188",
+            "count": 1
+        },
+        {
+            "id": "100044570100031",
+            "count": 0
+        },
+        {
+            "id": "100051311212427",
+            "count": 0
+        },
+        {
+            "id": "100054022310689",
+            "count": 0
+        },
+        {
+            "id": "100057705485626",
+            "count": 2
+        },
+        {
+            "id": "100062222394519",
+            "count": 0
+        },
+        {
+            "id": "100067733499099",
+            "count": 1
+        },
+        {
+            "id": "100070512833562",
+            "count": 0
+        },
+        {
+            "id": "100071525507525",
+            "count": 1
+        },
+        {
+            "id": "100073009375670",
+            "count": 0
+        },
+        {
+            "id": "100073372055492",
+            "count": 0
+        },
+        {
+            "id": "100075124568415",
+            "count": 1
+        },
+        {
+            "id": "100075247976331",
+            "count": 0
+        },
+        {
+            "id": "100075582905004",
+            "count": 14
+        },
+        {
+            "id": "100076869507605",
+            "count": 0
+        },
+        {
+            "id": "100079753730465",
+            "count": 0
+        },
+        {
+            "id": "100080153409719",
+            "count": 0
+        },
+        {
+            "id": "100083348865604",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100035269800188",
+            "count": 0,
+            "name": "Ng Phương Mai"
+        },
+        {
+            "id": "100044570100031",
+            "count": 0,
+            "name": "Nguyễn Thị Thảo Hiền"
+        },
+        {
+            "id": "100051311212427",
+            "count": 0,
+            "name": "Huyen Trang"
+        },
+        {
+            "id": "100054022310689",
+            "count": 0,
+            "name": "Giaa Hann"
+        },
+        {
+            "id": "100057705485626",
+            "count": 0,
+            "name": "Thanhh Kiềuu"
+        },
+        {
+            "id": "100062222394519",
+            "count": 0,
+            "name": "Dao Thi Thu Hangg"
+        },
+        {
+            "id": "100067733499099",
+            "count": 0,
+            "name": "Phương Hoa"
+        },
+        {
+            "id": "100070512833562",
+            "count": 0,
+            "name": "Chau Thị Cẩm Tiên"
+        },
+        {
+            "id": "100071525507525",
+            "count": 0,
+            "name": "Tô T.Thảo Ngân"
+        },
+        {
+            "id": "100073009375670",
+            "count": 0,
+            "name": "ʚDh Nqcutiɞ"
+        },
+        {
+            "id": "100073372055492",
+            "count": 0,
+            "name": "Ng Thuỳ Linh"
+        },
+        {
+            "id": "100075124568415",
+            "count": 0,
+            "name": "ʚDk Dethuongɞ"
+        },
+        {
+            "id": "100075247976331",
+            "count": 0,
+            "name": "Ha Ng Bao Tram"
+        },
+        {
+            "id": "100075582905004",
+            "count": 0,
+            "name": "Cậu Ba"
+        },
+        {
+            "id": "100076869507605",
+            "count": 0,
+            "name": "Nguyễn Phương Ngân"
+        },
+        {
+            "id": "100079753730465",
+            "count": 0,
+            "name": "Đào Ph Vy"
+        },
+        {
+            "id": "100080153409719",
+            "count": 0,
+            "name": "Ng Phương Mai"
+        },
+        {
+            "id": "100083348865604",
+            "count": 0,
+            "name": "Ng B Tram"
+        }
+    ],
+    "day": [
+        {
+            "id": "100035269800188",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100044570100031",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100051311212427",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100054022310689",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100057705485626",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100062222394519",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100067733499099",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100070512833562",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100071525507525",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073009375670",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073372055492",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075124568415",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075247976331",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075582905004",
+            "count": 0,
+            "name": "Cậu Ba"
+        },
+        {
+            "id": "100076869507605",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100079753730465",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100080153409719",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083348865604",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 2
+}
